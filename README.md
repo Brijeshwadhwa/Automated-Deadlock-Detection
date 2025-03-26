@@ -1,1 +1,2 @@
 # Automated-Deadlock-Detection
+The Automated Deadlock Detection Tool identifies potential deadlocks by simulating process-resource allocation and analyzing dependencies. Deadlocks occur when processes are blocked, each holding a resource while waiting for another. The tool uses cycle detection algorithms to detect circular waits, providing a visual representation of the process-resource graph and suggesting resolution strategies. This enhances system reliability by proactively addressing deadlock scenarios.
